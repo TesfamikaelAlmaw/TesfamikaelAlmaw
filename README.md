@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tesfamikael Almaw</h1>
 <h3 align="center">A passionate full stack developer from ❤Ethiopia ❤</h3>
-<img align="right"  src="https://images.pexels.com/photos/113850/pexels-photo-113850.jpeg" alt="A programming setup" />
+<img  height="350" width="100%"  src="https://images.pexels.com/photos/113850/pexels-photo-113850.jpeg" alt="A programming setup" />
 
 
 
