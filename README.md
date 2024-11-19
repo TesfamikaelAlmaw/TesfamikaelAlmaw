@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **any projects**
 
-- 💬 Ask me about **React,Django**
+- 💬 Ask me about **React,nodejs**
 
-- 📫 How to reach me **iinventme26@gmail.com**
+- 📫 How to reach me **tesfamikaelalmaw142@gmail.com**
 
 - ⚡ Fun fact **You don't believe me? I am hilarious!😁😁😁😁**
 
